@@ -21,14 +21,14 @@ python html_zcq.py
 
 ## 在线预览
 
-访问 GitHub Pages：[https://zcq19991029.github.io/zcq-visualization/](https://zcq19991029.github.io/zcq-visualization/)
+访问 Sites版：[https://zcq-visualization-sites.zcq991029.chatgpt.site/](https://zcq-visualization-sites.zcq991029.chatgpt.site/)
 
 ## 文件结构
 
 | 文件/目录 | 说明 |
 |---|---|
 | `html_zcq.py` | 主入口脚本，生成可视化页面 |
-| `docs/index.html` | 生成的交互式页面（GitHub Pages 源） |
+| `docs/index.html` | 生成的交互式页面（Sites版入口源） |
 | `tsne_3d_class.html` | t-SNE 分类视图 |
 | `tsne_3d_combined.html` | t-SNE 组合视图 |
 | `tsne_3d_rpm.html` | t-SNE RPM 视图 |
@@ -39,4 +39,4 @@ python html_zcq.py
 
 - Python + Plotly
 - HTML / JavaScript (SheetJS, Plotly.js)
-- GitHub Pages 托管
+- Sites版托管；GitHub 仅保存源码与生成文件
